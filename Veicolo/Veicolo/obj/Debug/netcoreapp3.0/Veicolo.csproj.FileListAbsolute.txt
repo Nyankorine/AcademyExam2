@@ -1,0 +1,13 @@
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.exe
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.deps.json
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.runtimeconfig.json
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.runtimeconfig.dev.json
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.dll
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Veicolo.pdb
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.csprojAssemblyReference.cache
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.AssemblyInfoInputs.cache
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.AssemblyInfo.cs
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.dll
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.pdb
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\katherine.gigremosa\Desktop\Academy\Exam2_18102019\Veicolo\Veicolo\obj\Debug\netcoreapp3.0\Veicolo.csproj.CopyComplete

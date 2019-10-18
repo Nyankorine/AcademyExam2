@@ -1,0 +1,42 @@
+[
+  {
+    "NumeroCavalli": 3,
+    "IsDiesel": false,
+    "DataImmatricolazione": "0001-01-01T00:00:00",
+    "ID": 1,
+    "Modello": "vdsfvs",
+    "Marca": "dada"
+  },
+  {
+    "NumeroCavalli": 123,
+    "IsDiesel": true,
+    "DataImmatricolazione": "0001-01-01T00:00:00",
+    "ID": 2,
+    "Modello": "qwe",
+    "Marca": "fds"
+  },
+  {
+    "NumeroCavalli": 878,
+    "IsDiesel": false,
+    "DataImmatricolazione": "0001-01-01T00:00:00",
+    "ID": 3,
+    "Modello": "qwe",
+    "Marca": "fdg"
+  },
+  {
+    "NumeroCavalli": 6,
+    "IsDiesel": true,
+    "DataImmatricolazione": "0001-01-01T00:00:00",
+    "ID": 4,
+    "Modello": "qwe",
+    "Marca": "vfdxvd"
+  },
+  {
+    "NumeroCavalli": 444,
+    "IsDiesel": true,
+    "DataImmatricolazione": "0001-01-01T00:00:00",
+    "ID": 5,
+    "Modello": "qwe",
+    "Marca": "bcb"
+  }
+]

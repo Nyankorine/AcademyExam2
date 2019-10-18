@@ -1,0 +1,30 @@
+[
+  {
+    "NumeroTelaio": 123,
+    "IsElettrica": true,
+    "ID": 1,
+    "Modello": "1fsa",
+    "Marca": "fsdca"
+  },
+  {
+    "NumeroTelaio": 5,
+    "IsElettrica": false,
+    "ID": 2,
+    "Modello": "glfd",
+    "Marca": "csa"
+  },
+  {
+    "NumeroTelaio": 5,
+    "IsElettrica": true,
+    "ID": 3,
+    "Modello": "fds",
+    "Marca": "cza"
+  },
+  {
+    "NumeroTelaio": 435,
+    "IsElettrica": true,
+    "ID": 4,
+    "Modello": "fds",
+    "Marca": "rew"
+  }
+]
